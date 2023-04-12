@@ -75,7 +75,8 @@ class App extends Component {
   render() {
     return (
       <div className='container'>
-        <h1>Change calculator</h1>
+        <h1>Change Calculator</h1>
+        <p>Enter the amount due and the amount received to calculate the change.</p>
         <hr />
         <div className='row'>
           <div className='col-sm-4'>
